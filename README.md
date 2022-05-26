@@ -1,11 +1,11 @@
 <h1 align="center">:gem: Hi! Welcome to my Profile! :gem:</h1>
-<h3 align="center">My name is Santiago and I'm currently pursuing a Bachelor's degree in Computer Systems engineering at ESCOM-IPN at Mexico. I'm interested in mobile and web development, with experience in programming languages oriented to software and hardware, with knowledge in design and edition.</h3>
+<h3 align="center">My name is Santiago and I'm currently pursuing a Bachelor's degree in Computer Systems engineering at ESCOM-IPN at Mexico. I'm interested in mobile and web development, with experience in programming languages oriented to software and hardware, with knowledge in design and edition</h3>
 
 <div id="header" align="center">
   <img src="https://c.tenor.com/d7_52xh_2dQAAAAC/dog-work.gif" width="1000" />
 </div>
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="http://www.linkedin.com/in/santiago-pérez-gómez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago pérez gómez" height="30" width="40" /></a>
   &nbsp;

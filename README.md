@@ -16,4 +16,4 @@
 
 <h2 align="center">My Stats</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiPerGo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![SantiPerGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiPerGo&show_icons=true&theme=github_dark)](https://github.com/SantiPerGo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiPerGo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![SantiPerGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiPerGo&show_icons=true&theme=github_dark)](https://github.com/SantiPerGo/github-readme-stats)

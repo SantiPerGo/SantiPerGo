@@ -2,7 +2,7 @@
 <h3 align="center">My name is Santiago and I'm currently pursuing a Bachelor's degree in Computer Systems engineering at ESCOM-IPN at Mexico. I'm interested in mobile and web development, with experience in programming languages oriented to software and hardware, with knowledge in design and edition</h3>
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/d7_52xh_2dQAAAAC/dog-work.gif" width="1000" />
+  <img src="https://c.tenor.com/d7_52xh_2dQAAAAC/dog-work.gif" style="width:100%;height:auto;" />
 </div>
 
 <h2 align="center">Languages and Tools</h2>

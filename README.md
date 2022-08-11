@@ -5,6 +5,8 @@
   <img src="https://c.tenor.com/d7_52xh_2dQAAAAC/dog-work.gif" style="width:100%;height:auto;" />
 </div>
 
+<div align="center"><br><img src="https://komarev.com/ghpvc/?username=santipergo&label=Profile%20views&color=0e75b6&style=flat" style="width:25%;height:auto;" alt="santipergo" /> </div>
+
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
@@ -41,3 +43,7 @@
   &nbsp;
   <a href="mailto:spergo@outlook.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/800px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="santiago pérez gómez" height="35" width="40" /></a>
 </p>
+
+<h2 align="center">Support</h2>
+<p align="center"><a href="https://www.buymeacoffee.com/buy me some dog food"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="width:50%;height:auto;" alt="buy me some dog food" /></a></p><br><br>
+

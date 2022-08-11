@@ -44,6 +44,6 @@
   <a href="mailto:spergo@outlook.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/800px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="santiago pérez gómez" height="35" width="40" /></a>
 </p>
 
-<h2 align="center">Support</h2>
-<p align="center"><a href="https://www.buymeacoffee.com/buy me some dog food"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="width:50%;height:auto;" alt="buy me some dog food" /></a></p><br><br>
+<!--<h2 align="center">Support</h2>
+<p align="center"><a href="https://www.buymeacoffee.com/buy me some dog food"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="width:50%;height:auto;" alt="buy me some dog food" /></a></p><br><br>-->
 

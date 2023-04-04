@@ -1,5 +1,5 @@
 <h1 align="center">:gem: Hi! Welcome to my Profile! :gem:</h1>
-<h3 align="center">💎 I'm Santiago, a computer systems engineer, interested in mobile and web development, with experience in software and hardware tools, with knowledge in design and editing 💎<br>🔥 My main and favorite programming languages are Java and Kotlin 🔥<br>💙 I really believe that difficulties drive us to overcome our limits and to get up again with greater effort 💙</h3>
+<h3 align="center">💎 I'm Santiago, a computer systems engineer, interested in mobile and web development, with experience in software and hardware tools, with knowledge in design and editing 💎<br><br>🔥 My main and favorite programming languages are Java and Kotlin 🔥<br><br>💙 I really believe that difficulties drive us to overcome our limits and to get up again with greater effort 💙</h3>
 
 <div id="header" align="center">
   <img src="https://c.tenor.com/d7_52xh_2dQAAAAC/dog-work.gif" style="width:100%;height:auto;" />
